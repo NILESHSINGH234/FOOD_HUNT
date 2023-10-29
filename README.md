@@ -42,7 +42,7 @@ This is a my major project work on it in local machine and after complete i push
 
   ##Images
  
-![image](https://github.com/NILESHSINGH234/FOOD_HUNT/assets/131458541/b5b49ede-09d4-466c-b983-722553dcb638
+![image](https://github.com/NILESHSINGH234/FOOD_HUNT/assets/131458541/b5b49ede-09d4-466c-b983-722553dcb638)
  ![image](https://github.com/NILESHSINGH234/FOOD_HUNT/assets/131458541/c16a32df-d08e-45d2-8eec-b522cb785cb8)
  ![image](https://github.com/NILESHSINGH234/FOOD_HUNT/assets/131458541/4d976e91-5943-481f-b943-995841c17c31)
  ![image](https://github.com/NILESHSINGH234/FOOD_HUNT/assets/131458541/21164260-800d-4ea0-82b3-50367e3be715)
