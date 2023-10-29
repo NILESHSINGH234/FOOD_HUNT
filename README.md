@@ -1,84 +1,58 @@
-# Getting Started with Create React App
+# FOOD HUNT STORE
+## Project Catergory Ecommerce
+
+
+## Features
+-  Firebase Authentication with the required field & regex validations
+-  Product listing, Infinite Scroll , Carousel to see Product
+-  Users can add/remove products to/from cart, update quantity,
+-  Live Search Functionality use Get Search Suggesion And Go on that FOOD
+-  Using Debouncing To OPTIMIZE Search
+-  See All Menu Item of List of Individual Restaurant
+-  Shimmer UI Effect
+
+This is a my major project work on it in local machine and after complete i push on git I learn lot of things in front End
+![my badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![my badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer">
 
 
 
-[Watch the Video](https://drive.google.com/file/d/1fjt5WqI6CFAxqtieH4jOAvnTi1i9OyJz/view?usp=sharing)
+## Learn Some Important <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> Property
+---
+>Some important Points That I have Learned During Making this are
+ - Use Swiggy Live Api Data Fetch it Properly
+ - Best and Difficult part Fetch Menu data And show on UI and make a Accordion Dynamic Routing To go Particular ResTaurant
+ - Shimmer UI Technique
+ - send Props children to parents
+ - Cart Feature User Add Item Remove Item
+ - High Order Components
+ - Redux Toolkit State MaangeMent
+ - use Majore Majority hooks
+ - I make a  Dummy Auth in frontEnd to check my front end skill and Do login Signup using Reduk Toolkit 
+ - use Yup for form Validations
+ - Fomik For Form Data
+ - use Vanilla Css not use Tailwind
+ - Dynamic Routing
+ - Flow of code
+ - building functons
+ - install react-icons and toadtify use it in project
+
+
+  ##Images
+ 
+![image](https://github.com/NILESHSINGH234/FOOD_HUNT/assets/131458541/b5b49ede-09d4-466c-b983-722553dcb638
+ ![image](https://github.com/NILESHSINGH234/FOOD_HUNT/assets/131458541/c16a32df-d08e-45d2-8eec-b522cb785cb8)
+ ![image](https://github.com/NILESHSINGH234/FOOD_HUNT/assets/131458541/4d976e91-5943-481f-b943-995841c17c31)
+ ![image](https://github.com/NILESHSINGH234/FOOD_HUNT/assets/131458541/21164260-800d-4ea0-82b3-50367e3be715)
 
 
 
 
 
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1fjt5WqI6CFAxqtieH4jOAvnTi1i9OyJz/view?usp=sharing" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## LIVE
+[FOOD HUNT Store](https://653e75b8210f0d0fd0dfc3f5--symphonious-hotteok-f34daf.netlify.app/)
