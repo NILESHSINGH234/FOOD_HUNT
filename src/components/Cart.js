@@ -23,7 +23,7 @@ const Cart = () => {
           <div className="w-96"><img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/2xempty_cart_yfxml0" alt="" /></div>
           <div className='mt-6 text-base font-semibold'>Your Cart is Empty</div>
           <div className='mt-2'>You can go to home page to view more restaurants</div>
-          <div className='mt-7 py-3 px-5 capitalize bg-[#fc8019] text-white font-semibold cursor-pointer text-base text-center border-0 outline-0'><Link to='/'>See Restaurants Near You</Link></div>
+          <div className='mt-7 py-3 px-5 capitalize bg-[#fc8019] text-white font-semibold cursor-pointer text-base text-center border-0 outline-0'><Link to='/Body'>See Restaurants Near You</Link></div>
         </div>
       )}
       {/* <div className="flex" data-testid="cart-items">
